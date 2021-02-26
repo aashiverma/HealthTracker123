@@ -1,0 +1,638 @@
+Timestamp,What's your age ?,What's your gender?,What is the Location type  of your college ? ,How stressed do you feel on a daily basis during the academic year? (1- Minimum Stress),What is your Field of Study?,Do you experience insomnia? ,"What can you say about your social circle? ( 5 - Highly Contained, excellent relations)",How often do you experience headache and fatigue? (5- Very Often),What is your Screen-Time? ,Did you ever have any suicidal thoughts?,Rate your concentration and energy level. (5 -High concentration and energy levels),How often do you indulge in some heavy physical activity? (5 -daily for a few hours),How often do you suffer from anxiety and panic attacks ? (5 - Very often),How has been your growth rate over the last few years? (5 -excellent growth),How will you rate your alcohol or drugs intake? ,Do you have a history of mental illness or any traumatic experience?,How will you
+02-10-2021 17:19,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,3,2,1,3,0,No,3
+02-10-2021 17:21,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,5,7 or above,No,3,1,4,5,0,Yes,2
+02-10-2021 17:22,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,5,4,7 or above,Yes,3,1,2,2,0,No,3
+02-10-2021 17:23,20,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,3,05-Jul,Yes,4,3,5,3,4,No,2
+02-10-2021 17:23,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,1,02-May,No,4,5,1,4,0,No,5
+02-10-2021 17:25,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,02-May,No,5,5,2,4,0,No,5
+02-10-2021 17:29,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,4,1,05-Jul,No,5,5,1,3,0,No,5
+02-10-2021 17:29,20,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Yes,2,3,7 or above,Yes,3,2,2,3,0,No,2
+02-10-2021 17:30,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,2,1,02-May,No,2,2,2,3,3,Yes,1
+02-10-2021 17:30,19,Male,Moderately Developed city,4,Technical,Maybe,3,3,7 or above,No,2,1,2,2,0,No,3
+02-10-2021 17:30,24,Female,Moderately Developed city,3,Technical,Maybe,2,1,2 hours or less,Yes,4,2,1,1,0,No,5
+02-10-2021 17:31,21,Female,Moderately Developed city,4,Technical,Yes,2,1,02-May,No,3,3,5,1,1,Yes,2
+02-10-2021 17:31,20,Male,Moderately Developed city,2,Technical,No,5,1,7 or above,No,3,4,1,2,0,No,5
+02-10-2021 17:31,20,Male,Moderately Developed city,4,Technical,Maybe,3,3,7 or above,Yes,2,3,3,2,0,No,2
+02-10-2021 17:31,19,Female,"Highly Developed city (Metropolitan, highly populated)",1,Medical,Maybe,4,4,7 or above,No,4,5,3,2,1,No,3
+02-10-2021 17:32,18,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Medical,Maybe,5,1,02-May,No,2,1,3,1,4,Yes,2
+02-10-2021 17:32,20,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Medical,Yes,1,2,2 hours or less,Yes,1,2,3,4,1,No,4
+02-10-2021 17:33,18,Male,Moderately Developed city,3,Commerce and Arts,No,2,1,05-Jul,Yes,3,3,3,3,2,No,5
+02-10-2021 17:33,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,2,1,02-May,No,3,3,3,3,0,No,4
+02-10-2021 17:33,26,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,4,1,2 hours or less,No,1,1,4,4,2,No,4
+02-10-2021 17:34,28,Female,Moderately Developed city,5,Technical,No,5,3,02-May,No,3,2,2,2,1,No,4
+02-10-2021 17:34,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,No,4,5,7 or above,Yes,2,2,4,3,0,Yes,2
+02-10-2021 17:36,21,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Commerce and Arts,No,2,3,7 or above,No,4,1,2,2,0,No,4
+02-10-2021 17:36,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,4,05-Jul,Yes,3,2,3,3,3,Yes,2
+02-10-2021 17:36,20,Female,Moderately Developed city,3,Technical,No,3,3,05-Jul,Yes,2,3,3,2,0,No,3
+02-10-2021 17:38,22,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Maybe,4,3,02-May,No,4,4,1,5,1,No,4
+02-10-2021 17:38,19,Male,Moderately Developed city,3,Technical,No,3,4,02-May,Yes,2,3,3,3,0,No,2
+02-10-2021 17:39,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,4,7 or above,No,4,1,1,5,0,No,5
+02-10-2021 17:41,22,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Yes,5,3,05-Jul,No,3,3,5,3,2,Yes,4
+02-10-2021 17:41,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,1,7 or above,No,3,1,1,2,0,No,3
+02-10-2021 17:42,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,4,7 or above,Yes,3,2,3,2,0,No,2
+02-10-2021 17:44,20,Male,Moderately Developed city,3,Technical,No,4,3,7 or above,No,3,1,1,4,0,No,2
+02-10-2021 17:45,19,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,No,5,3,7 or above,No,2,1,5,4,0,No,2
+02-10-2021 17:47,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,No,3,3,7 or above,No,3,1,2,3,0,No,4
+02-10-2021 17:49,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,4,5,02-May,Yes,4,5,1,4,2,Yes,1
+02-10-2021 17:50,20,Male,Moderately Developed city,3,Technical,No,5,2,05-Jul,No,4,4,2,4,0,No,4
+02-10-2021 17:50,24,Female,Moderately Developed city,3,Technical,No,3,1,7 or above,No,3,3,1,1,0,No,4
+02-10-2021 17:51,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,2,05-Jul,Yes,4,4,4,5,1,Yes,2
+02-10-2021 17:53,21,Male,Moderately Developed city,2,Technical,No,2,3,05-Jul,Yes,4,5,5,4,0,No,5
+02-10-2021 17:55,24,Female,Moderately Developed city,3,Technical,No,3,1,7 or above,No,3,3,1,1,0,No,4
+02-10-2021 17:57,23,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,5,3,05-Jul,No,4,3,1,5,0,No,4
+02-10-2021 18:01,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,4,05-Jul,No,4,1,2,3,1,No,3
+02-10-2021 18:02,20,Female,Moderately Developed city,2,Commerce and Arts,No,4,1,05-Jul,No,4,5,1,4,0,No,3
+02-10-2021 18:03,21,Male,Moderately Developed city,2,Technical,Yes,2,3,02-May,Yes,3,2,3,3,0,No,5
+02-10-2021 18:06,22,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,5,3,7 or above,No,4,1,1,3,0,No,4
+02-10-2021 18:07,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,2,2,02-May,No,2,3,2,2,1,No,5
+02-10-2021 18:09,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,4,7 or above,No,3,2,5,2,1,No,3
+02-10-2021 18:13,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,3,05-Jul,No,4,3,2,4,0,No,4
+02-10-2021 18:17,20,Male,Moderately Developed city,3,Technical,No,5,1,7 or above,No,5,5,1,4,1,No,5
+02-10-2021 18:19,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,2,5,7 or above,No,3,4,3,4,0,No,4
+02-10-2021 18:19,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,5,7 or above,No,2,3,1,2,0,No,2
+02-10-2021 18:21,21,Male,Moderately Developed city,3,Technical,Maybe,4,2,7 or above,Yes,3,3,1,4,0,No,5
+02-10-2021 18:22,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Maybe,3,3,02-May,No,3,2,1,3,0,No,3
+02-10-2021 18:22,21,Female,Moderately Developed city,3,Technical,Maybe,4,2,05-Jul,No,3,4,2,3,1,No,4
+02-10-2021 18:22,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,4,2,02-May,No,4,2,1,3,0,No,4
+02-10-2021 18:25,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,5,1,7 or above,No,5,5,1,5,0,No,5
+02-10-2021 18:30,18,Female,"Highly Developed city (Metropolitan, highly populated)",2,Medical,No,5,4,02-May,No,4,3,1,4,0,No,5
+02-10-2021 18:37,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,1,02-May,No,4,4,1,4,0,No,5
+02-10-2021 18:40,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,1,1,2 hours or less,No,5,5,1,5,2,No,5
+02-10-2021 18:44,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,4,3,05-Jul,No,3,1,1,4,0,No,4
+02-10-2021 18:49,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,2,3,02-May,No,2,1,2,2,0,No,2
+02-10-2021 18:52,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,2,7 or above,No,4,5,3,4,2,No,2
+02-10-2021 18:53,24,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Yes,4,3,02-May,No,4,3,2,4,3,No,4
+02-10-2021 18:56,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,4,02-May,No,2,1,3,3,0,No,3
+02-10-2021 19:00,25,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,3,1,05-Jul,No,5,4,1,3,0,No,3
+02-10-2021 19:02,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Maybe,4,4,7 or above,No,4,1,1,5,0,Yes,3
+02-10-2021 19:02,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,3,1,7 or above,Yes,4,3,2,4,0,No,4
+02-10-2021 19:06,18,Female,"Highly Developed city (Metropolitan, highly populated)",1,Medical,No,2,2,2 hours or less,No,5,1,1,1,0,No,5
+02-10-2021 19:06,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,5,4,05-Jul,No,3,5,2,3,0,Yes,3
+02-10-2021 19:09,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,5,7 or above,Yes,4,4,2,4,0,No,3
+02-10-2021 19:09,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,4,3,02-May,No,4,2,2,4,0,No,4
+02-10-2021 19:10,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,4,3,02-May,No,4,2,2,4,0,No,4
+02-10-2021 19:10,23,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,1,5,7 or above,Yes,2,1,2,2,0,No,2
+02-10-2021 19:14,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,3,05-Jul,No,3,2,1,3,0,No,2
+02-10-2021 19:16,19,Female,Moderately Developed city,3,Medical,Maybe,3,2,05-Jul,No,4,3,1,4,0,No,4
+02-10-2021 19:17,26,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,02-May,No,4,3,2,3,1,No,4
+02-10-2021 19:21,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Medical,Yes,3,5,05-Jul,No,3,2,3,3,0,No,3
+02-10-2021 19:23,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Maybe,4,4,7 or above,Yes,2,1,2,2,2,No,4
+02-10-2021 19:27,21,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,1,2,05-Jul,No,3,3,1,3,2,No,2
+02-10-2021 19:31,21,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Yes,3,4,05-Jul,Yes,3,3,3,3,1,No,2
+02-10-2021 19:33,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Maybe,4,4,05-Jul,No,3,4,3,4,0,No,5
+02-10-2021 19:34,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,3,2,05-Jul,No,3,3,2,3,0,No,4
+02-10-2021 19:34,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,3,05-Jul,No,4,5,1,4,1,No,4
+02-10-2021 19:36,24,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,3,4,7 or above,No,3,2,2,3,0,No,3
+02-10-2021 19:42,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,3,1,7 or above,Yes,3,3,1,4,0,Yes,5
+02-10-2021 19:45,21,Male,Moderately Developed city,3,Commerce and Arts,Maybe,2,3,7 or above,Yes,3,1,2,2,1,No,2
+02-10-2021 19:48,20,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Medical,Yes,4,5,05-Jul,No,2,1,5,3,2,Yes,2
+02-10-2021 19:50,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Maybe,4,4,7 or above,No,3,2,1,3,0,No,4
+02-10-2021 19:53,21,Male,Moderately Developed city,5,Technical,No,3,1,05-Jul,No,3,3,1,3,1,No,5
+02-10-2021 19:54,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,2,02-May,No,4,2,1,3,2,No,4
+02-10-2021 19:56,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,4,3,05-Jul,No,4,5,5,4,0,Yes,2
+02-10-2021 19:57,21,Male,Moderately Developed city,4,Technical,No,4,3,7 or above,No,2,2,3,3,0,No,3
+02-10-2021 19:57,20,Female,Moderately Developed city,4,Commerce and Arts,No,4,4,05-Jul,No,3,2,4,4,1,No,3
+02-10-2021 20:00,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,4,2,7 or above,No,3,2,1,3,1,No,3
+02-10-2021 20:02,22,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,2,2 hours or less,No,4,5,2,4,4,No,5
+02-10-2021 20:03,22,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Medical,Maybe,3,4,02-May,No,3,1,3,3,1,No,4
+02-10-2021 20:09,20,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,No,2,4,7 or above,No,3,2,1,2,0,No,5
+02-10-2021 20:11,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,5,7 or above,No,3,3,1,4,1,No,4
+02-10-2021 20:13,23,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,3,05-Jul,No,3,3,4,3,2,Yes,3
+02-10-2021 20:16,20,Male,Moderately Developed city,5,Technical,No,3,5,7 or above,Yes,5,5,5,5,4,Yes,5
+02-10-2021 20:18,21,Male,Moderately Developed city,3,Technical,No,3,1,7 or above,No,4,4,1,3,2,No,4
+02-10-2021 20:19,19,Female,Moderately Developed city,4,Technical,Maybe,4,3,02-May,No,4,5,4,3,0,No,4
+02-10-2021 20:23,19,Female,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,Yes,1,5,7 or above,No,2,1,5,3,1,No,2
+02-10-2021 20:29,21,Female,Moderately Developed city,4,Medical,No,4,3,05-Jul,No,3,2,2,3,0,No,3
+02-10-2021 20:29,20,Male,Moderately Developed city,2,Technical,No,1,1,7 or above,No,4,2,3,3,0,No,2
+02-10-2021 20:29,18,Female,Moderately Developed city,5,Technical,No,2,4,05-Jul,No,2,3,4,3,0,No,5
+02-10-2021 20:31,20,Male,Moderately Developed city,4,Technical,No,5,4,7 or above,No,4,3,1,5,1,No,4
+02-10-2021 20:32,19,Female,Moderately Developed city,2,Technical,No,4,2,7 or above,No,3,2,2,1,1,No,4
+02-10-2021 20:32,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,3,05-Jul,No,4,3,3,4,0,No,3
+02-10-2021 20:32,20,Male,Moderately Developed city,3,Technical,No,4,3,7 or above,Yes,3,2,5,3,0,No,3
+02-10-2021 20:34,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,3,2,7 or above,Yes,4,2,3,3,0,No,2
+02-10-2021 20:37,24,Male,Moderately Developed city,1,Technical,No,4,2,7 or above,No,3,4,1,3,1,No,4
+02-10-2021 20:40,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,5,05-Jul,No,5,3,4,4,0,No,3
+02-10-2021 20:46,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,1,2,02-May,No,3,1,2,3,0,No,5
+02-10-2021 20:53,19,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,5,7 or above,No,1,1,3,3,0,Yes,2
+02-10-2021 20:55,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,2,4,05-Jul,Yes,3,1,4,3,0,No,1
+02-10-2021 20:59,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,2,1,7 or above,Yes,4,5,4,4,1,No,4
+02-10-2021 21:11,19,Male,Moderately Developed city,4,Technical,Yes,3,3,02-May,No,4,3,2,4,1,No,5
+02-10-2021 21:13,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,3,02-May,No,4,3,1,4,0,No,5
+02-10-2021 21:16,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,2,7 or above,No,4,1,1,3,0,No,4
+02-10-2021 21:16,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Yes,2,3,2 hours or less,Yes,3,2,3,2,0,Yes,2
+02-10-2021 21:19,20,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,1,05-Jul,No,1,4,1,2,0,No,3
+02-10-2021 21:25,22,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,3,1,7 or above,No,4,4,2,4,0,No,4
+02-10-2021 21:29,21,Male,Moderately Developed city,2,Technical,No,3,1,02-May,No,3,5,1,5,0,No,5
+02-10-2021 21:31,20,Female,Moderately Developed city,3,Technical,Maybe,5,4,05-Jul,No,3,2,1,4,0,No,4
+02-10-2021 21:32,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,1,7 or above,No,5,5,1,5,0,No,5
+02-10-2021 21:32,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Yes,5,3,02-May,No,5,5,1,5,3,No,5
+02-10-2021 21:35,19,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,3,1,05-Jul,No,4,4,1,3,0,No,3
+02-10-2021 21:36,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Medical,Maybe,4,3,05-Jul,No,3,4,3,2,1,No,3
+02-10-2021 21:44,21,Female,Moderately Developed city,2,Technical,Yes,3,3,2 hours or less,No,3,1,2,3,1,No,3
+02-10-2021 21:45,20,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,2,3,7 or above,No,3,5,3,4,0,No,3
+02-10-2021 21:45,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,3,7 or above,No,3,5,1,4,1,No,4
+02-10-2021 21:47,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Yes,2,4,02-May,Yes,3,3,4,2,2,Yes,2
+02-10-2021 21:49,21,Male,Moderately Developed city,2,Technical,Maybe,4,2,05-Jul,No,3,3,1,3,0,No,4
+02-10-2021 21:49,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,5,5,7 or above,Yes,5,5,5,5,4,Yes,5
+02-10-2021 21:50,22,Female,Moderately Developed city,2,Technical,No,4,2,05-Jul,No,3,2,2,3,0,No,4
+02-10-2021 21:52,20,Male,Moderately Developed city,2,Technical,No,4,2,02-May,No,5,2,1,3,0,No,4
+02-10-2021 21:56,18,Male,Moderately Developed city,3,Commerce and Arts,No,3,3,02-May,No,3,5,2,4,1,No,4
+02-10-2021 22:05,22,Male,Moderately Developed city,3,Commerce and Arts,Maybe,2,4,7 or above,No,5,5,1,5,0,No,5
+02-10-2021 22:09,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,4,05-Jul,No,3,4,2,3,0,No,4
+02-10-2021 22:13,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,1,02-May,No,4,3,1,5,0,Yes,4
+02-10-2021 22:15,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,4,05-Jul,No,3,4,2,4,0,No,4
+02-10-2021 22:17,19,Female,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,Maybe,3,1,7 or above,Yes,3,1,1,2,0,No,3
+02-10-2021 22:18,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Yes,4,5,7 or above,No,3,4,1,4,1,No,3
+02-10-2021 22:18,18,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,Maybe,1,1,7 or above,Yes,2,1,5,2,0,Yes,2
+02-10-2021 22:18,19,Female,Moderately Developed city,4,Technical,No,4,4,7 or above,Yes,3,3,4,3,0,No,3
+02-10-2021 22:21,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,3,7 or above,Yes,3,1,3,3,0,No,3
+02-10-2021 22:22,23,Male,Moderately Developed city,3,Technical,Maybe,3,4,05-Jul,No,3,4,1,4,2,No,4
+02-10-2021 22:22,19,Female,Moderately Developed city,2,Commerce and Arts,Maybe,4,3,02-May,No,3,3,2,4,0,Yes,3
+02-10-2021 22:24,22,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,3,02-May,No,3,4,2,3,3,No,3
+02-10-2021 22:28,22,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,2,7 or above,No,5,5,3,4,1,No,3
+02-10-2021 22:28,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,3,7 or above,Yes,3,2,5,4,0,No,3
+02-10-2021 22:29,20,Female,Moderately Developed city,3,Technical,No,2,3,05-Jul,No,3,4,2,4,0,No,4
+02-10-2021 22:33,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,4,5,7 or above,Yes,3,3,3,1,0,No,1
+02-10-2021 22:33,18,Female,Moderately Developed city,4,Commerce and Arts,No,3,1,7 or above,Yes,3,1,4,3,0,No,4
+02-10-2021 22:34,20,Female,Moderately Developed city,3,Commerce and Arts,Maybe,3,3,05-Jul,No,3,2,1,3,0,No,4
+02-10-2021 22:37,20,Male,Moderately Developed city,3,Technical,No,5,3,2 hours or less,No,4,2,2,3,0,No,4
+02-10-2021 22:37,21,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,Maybe,3,4,02-May,Yes,4,4,1,2,0,No,3
+02-10-2021 22:40,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,1,02-May,No,1,4,1,1,0,No,1
+02-10-2021 22:41,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Maybe,5,2,7 or above,No,4,4,1,3,1,No,4
+02-10-2021 22:50,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,5,1,05-Jul,No,4,5,1,4,0,No,5
+02-10-2021 22:53,18,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Maybe,1,4,7 or above,Yes,1,1,4,3,0,No,3
+02-10-2021 22:56,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,3,02-May,No,3,3,2,2,0,No,3
+02-10-2021 22:56,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,2,02-May,No,2,3,1,2,0,No,3
+02-10-2021 23:03,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Yes,2,3,7 or above,Yes,4,2,2,3,1,No,3
+02-10-2021 23:19,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,4,3,02-May,Yes,5,1,2,3,0,No,4
+02-10-2021 23:20,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,2,4,7 or above,No,3,1,4,3,0,No,2
+02-10-2021 23:24,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,4,3,05-Jul,Yes,3,2,1,4,0,No,5
+02-10-2021 23:28,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,5,5,7 or above,Yes,2,2,4,2,0,No,2
+02-10-2021 23:29,20,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Commerce and Arts,Maybe,4,1,7 or above,No,3,3,2,1,1,No,1
+02-10-2021 23:29,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,3,02-May,No,3,5,3,4,1,No,4
+02-10-2021 23:38,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,4,5,7 or above,Yes,2,3,2,3,0,Yes,3
+02-10-2021 23:43,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,4,1,02-May,No,4,2,1,4,0,No,4
+02-10-2021 23:57,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Yes,2,4,2 hours or less,No,2,4,3,3,0,No,4
+02-11-2021 00:02,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,4,4,05-Jul,No,2,1,2,1,0,No,3
+02-11-2021 00:32,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Yes,3,4,05-Jul,No,3,3,3,3,0,No,3
+02-11-2021 01:30,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,3,05-Jul,No,4,3,3,4,0,No,3
+02-11-2021 02:29,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,3,05-Jul,No,4,3,3,4,0,No,3
+02-11-2021 02:32,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,3,05-Jul,No,4,3,3,4,0,No,3
+02-11-2021 05:54,21,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Commerce and Arts,No,2,3,7 or above,No,4,1,2,2,0,No,4
+02-11-2021 07:08,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,3,02-May,No,3,2,1,2,0,No,3
+02-11-2021 07:46,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,3,3,02-May,No,3,2,1,4,0,No,4
+02-11-2021 08:31,19,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,No,3,1,05-Jul,No,4,5,2,5,2,No,5
+02-11-2021 09:44,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,2,1,7 or above,Yes,4,5,4,4,1,No,4
+02-11-2021 09:54,23,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,1,05-Jul,Yes,3,2,4,3,0,No,3
+02-11-2021 09:54,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,4,2,05-Jul,Yes,3,3,3,4,0,Yes,4
+02-11-2021 09:58,23,Female,Moderately Developed city,4,Technical,No,3,2,7 or above,No,5,2,2,4,0,No,3
+02-11-2021 10:00,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,No,3,3,05-Jul,No,3,1,1,2,0,No,3
+02-11-2021 10:21,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,4,7 or above,No,3,3,4,3,2,No,2
+02-11-2021 10:30,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,2,1,7 or above,Yes,4,5,4,4,1,No,4
+02-11-2021 10:32,21,Male,Moderately Developed city,5,Technical,Yes,1,4,7 or above,No,3,3,4,4,2,No,3
+02-11-2021 10:36,21,Male,Moderately Developed city,4,Technical,No,5,1,02-May,No,3,3,1,3,0,Yes,3
+02-11-2021 10:37,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Medical,Maybe,4,5,7 or above,No,3,1,3,3,0,No,4
+02-11-2021 10:54,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,4,4,05-Jul,No,3,1,3,4,0,No,3
+02-11-2021 11:13,19,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,5,1,05-Jul,No,3,2,1,3,0,No,4
+02-11-2021 13:24,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Medical,No,2,5,05-Jul,No,4,4,5,4,0,No,4
+02-11-2021 17:41,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,4,7 or above,No,3,2,3,4,0,No,4
+02-11-2021 18:21,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,5,7 or above,No,3,1,4,3,1,Yes,1
+02-11-2021 18:21,21,Female,Moderately Developed city,3,Technical,No,3,1,05-Jul,No,3,5,1,5,0,No,4
+02-11-2021 18:24,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,2,4,05-Jul,No,2,2,4,2,0,No,2
+02-11-2021 18:43,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,3,02-May,No,3,4,1,3,0,No,4
+02-11-2021 18:48,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,4,05-Jul,No,3,2,4,2,0,No,3
+02-11-2021 18:59,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,3,7 or above,No,3,1,2,2,0,No,4
+02-11-2021 19:01,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,4,7 or above,Yes,3,1,2,2,0,No,3
+02-11-2021 19:01,22,Female,Moderately Developed city,3,Technical,No,2,3,7 or above,No,3,2,3,3,0,No,3
+02-11-2021 19:07,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,1,7 or above,No,3,1,3,3,0,Yes,3
+02-11-2021 19:07,22,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,4,1,02-May,No,4,3,1,3,0,No,5
+02-11-2021 19:10,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,2,5,7 or above,Yes,3,3,5,1,3,No,1
+02-11-2021 19:19,20,Female,Moderately Developed city,3,Technical,Maybe,3,2,7 or above,No,3,3,2,2,0,No,3
+02-11-2021 19:25,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,3,7 or above,No,3,2,3,3,0,No,3
+02-11-2021 19:27,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,3,05-Jul,No,2,3,2,3,0,No,3
+02-11-2021 19:48,20,Male,Moderately Developed city,4,Medical,No,5,4,05-Jul,No,3,3,4,3,2,No,3
+02-11-2021 19:54,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,2,7 or above,No,2,2,1,4,0,No,4
+02-11-2021 20:29,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,4,7 or above,No,2,3,5,3,0,No,3
+02-11-2021 20:33,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,4,7 or above,No,3,2,1,4,1,No,3
+02-11-2021 20:35,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,5,7 or above,Yes,2,1,2,2,0,No,3
+02-11-2021 20:35,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,5,7 or above,No,2,1,3,3,0,Yes,2
+02-11-2021 20:37,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,3,7 or above,No,3,2,2,4,0,No,3
+02-11-2021 20:39,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,3,7 or above,No,3,5,2,3,0,No,4
+02-11-2021 20:39,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,2,7 or above,No,3,5,2,4,0,No,4
+02-11-2021 20:43,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,2,7 or above,No,3,1,2,4,0,No,3
+02-11-2021 20:50,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,2,7 or above,Yes,3,2,1,4,0,No,4
+02-11-2021 20:52,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,05-Jul,No,3,2,1,3,0,No,4
+02-11-2021 20:52,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,4,7 or above,Yes,3,1,3,2,0,No,3
+02-11-2021 21:02,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,4,5,7 or above,Yes,2,1,5,3,0,No,1
+02-11-2021 21:06,19,Female,Moderately Developed city,4,Technical,Yes,4,3,05-Jul,No,3,2,3,3,0,Yes,2
+02-11-2021 21:11,21,Female,Moderately Developed city,4,Technical,Maybe,2,2,7 or above,No,2,2,2,2,0,No,2
+02-11-2021 21:34,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,3,05-Jul,No,3,5,4,3,0,No,4
+02-11-2021 21:36,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,2,7 or above,Yes,2,2,2,2,0,No,3
+02-11-2021 21:40,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,1,05-Jul,No,4,2,1,3,0,No,5
+02-11-2021 22:14,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,3,7 or above,Yes,3,5,3,3,2,Yes,3
+02-11-2021 22:19,21,Female,"Highly Developed city (Metropolitan, highly populated)",1,Technical,Yes,2,4,7 or above,No,3,3,1,3,0,No,4
+02-11-2021 22:19,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,5,7 or above,Yes,1,2,4,3,0,No,2
+02-11-2021 23:31,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,3,02-May,No,2,3,3,3,0,No,2
+02-11-2021 23:33,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,3,7 or above,No,4,2,1,4,0,No,3
+02-12-2021 10:06,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,1,02-May,No,4,5,1,4,0,No,4
+02-12-2021 13:38,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,2,7 or above,Yes,2,2,2,2,0,No,3
+02-12-2021 14:52,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,4,7 or above,No,2,1,4,2,0,Yes,2
+02-12-2021 16:07,16,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,1,7 or above,No,4,5,1,5,0,No,5
+02-12-2021 17:29,20,Male,Moderately Developed city,2,Medical,No,4,1,02-May,No,4,4,1,4,0,No,5
+02-12-2021 18:03,20,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,3,05-Jul,No,4,4,4,3,0,No,5
+02-12-2021 18:23,18,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,4,7 or above,Yes,5,2,3,5,0,No,4
+02-12-2021 18:23,18,Male,Moderately Developed city,4,Technical,No,4,3,05-Jul,No,3,3,4,3,2,No,4
+02-12-2021 18:23,22,Male,Moderately Developed city,4,Technical,No,2,2,02-May,Yes,3,2,2,2,0,No,3
+02-12-2021 18:24,20,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,No,3,2,05-Jul,No,4,1,1,3,0,No,3
+02-12-2021 18:25,18,Male,Moderately Developed city,1,Technical,No,1,1,7 or above,No,4,2,1,4,0,No,5
+02-12-2021 18:26,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,2,1,05-Jul,No,3,1,3,3,0,No,3
+02-12-2021 18:26,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,02-May,No,4,5,3,3,0,No,3
+02-12-2021 18:26,20,Female,Moderately Developed city,3,Technical,No,3,2,02-May,No,3,1,3,2,0,No,4
+02-12-2021 18:27,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,2,7 or above,No,2,1,1,2,1,No,3
+02-12-2021 18:27,20,Female,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,Maybe,5,3,7 or above,No,3,3,1,4,0,No,4
+02-12-2021 18:27,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,5,7 or above,Yes,5,4,5,5,0,Yes,2
+02-12-2021 18:27,20,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,4,2,7 or above,No,3,2,1,3,0,No,5
+02-12-2021 18:30,23,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,5,2,7 or above,Yes,2,1,4,5,4,No,3
+02-12-2021 18:30,20,Male,Moderately Developed city,5,Technical,Yes,1,4,2 hours or less,Yes,4,3,5,2,0,Yes,1
+02-12-2021 18:31,19,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,4,05-Jul,No,3,2,1,3,0,No,4
+02-12-2021 18:31,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,5,5,02-May,No,3,3,5,3,3,No,3
+02-12-2021 18:32,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,5,7 or above,Yes,1,1,5,3,0,No,1
+02-12-2021 18:36,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,1,7 or above,No,4,2,1,4,0,No,4
+02-12-2021 18:36,20,Female,Moderately Developed city,3,Technical,No,4,2,02-May,No,3,3,2,3,0,No,3
+02-12-2021 18:37,25,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,1,2 hours or less,No,5,2,1,5,0,No,5
+02-12-2021 18:37,19,Male,Moderately Developed city,4,Technical,Maybe,3,4,02-May,Yes,4,2,4,3,0,No,3
+02-12-2021 18:37,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,5,7 or above,No,3,2,1,3,0,No,4
+02-12-2021 18:38,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,4,7 or above,No,2,2,4,3,1,No,3
+02-12-2021 18:38,21,Male,Moderately Developed city,3,Technical,No,5,2,05-Jul,Yes,4,3,4,4,0,No,5
+02-12-2021 18:38,20,Male,Moderately Developed city,3,Technical,Maybe,3,3,05-Jul,No,3,2,4,4,0,No,4
+02-12-2021 18:39,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,2,7 or above,No,3,1,3,1,0,No,2
+02-12-2021 18:40,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Maybe,3,3,05-Jul,No,4,2,2,3,0,No,3
+02-12-2021 18:42,19,Male,Moderately Developed city,3,Technical,Maybe,2,4,02-May,Yes,1,1,3,1,0,No,2
+02-12-2021 18:42,20,Female,Moderately Developed city,3,Technical,Maybe,4,3,7 or above,No,3,3,2,3,0,No,4
+02-12-2021 18:43,20,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,4,7 or above,No,4,1,2,3,0,No,3
+02-12-2021 18:45,23,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,2,2,02-May,No,1,2,1,5,0,Yes,4
+02-12-2021 18:46,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,3,7 or above,Yes,2,2,1,3,2,No,2
+02-12-2021 18:46,17,Male,Moderately Developed city,4,Commerce and Arts,Maybe,2,3,7 or above,Yes,4,1,1,2,0,No,3
+02-12-2021 18:47,18,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,3,1,05-Jul,No,2,1,1,1,0,No,3
+02-12-2021 18:49,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Maybe,5,3,05-Jul,No,3,4,4,5,3,Yes,3
+02-12-2021 18:53,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,7 or above,Yes,4,2,1,4,0,No,4
+02-12-2021 18:53,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,4,7 or above,Yes,3,3,3,3,2,No,1
+02-12-2021 18:57,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,3,3,02-May,No,3,4,4,3,0,No,3
+02-12-2021 18:59,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,7 or above,No,5,2,2,4,4,No,5
+02-12-2021 19:01,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,1,3,7 or above,No,3,2,3,3,0,No,2
+02-12-2021 19:03,19,Male,Moderately Developed city,1,Technical,No,3,2,02-May,No,3,5,3,5,0,No,4
+02-12-2021 19:04,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,1,7 or above,No,4,2,3,3,0,No,4
+02-12-2021 19:05,19,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,5,05-Jul,No,4,1,1,1,3,No,5
+02-12-2021 19:06,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,7 or above,No,3,3,4,4,0,Yes,3
+02-12-2021 19:07,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,05-Jul,No,3,4,2,4,0,No,5
+02-12-2021 19:08,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,3,7 or above,No,2,2,1,5,0,Yes,3
+02-12-2021 19:10,19,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,4,2,02-May,No,4,3,2,4,0,No,4
+02-12-2021 19:21,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,5,2 hours or less,No,3,5,5,4,0,No,4
+02-12-2021 19:22,21,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,2 hours or less,No,4,4,1,4,0,No,5
+02-12-2021 19:25,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,1,05-Jul,No,4,1,1,3,0,No,3
+02-12-2021 19:29,19,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,1,7 or above,No,4,3,1,1,0,No,3
+02-12-2021 19:30,20,Female,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,Maybe,4,3,05-Jul,No,3,3,2,4,0,No,3
+02-12-2021 19:40,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,1,3,7 or above,Yes,3,4,2,3,0,Yes,1
+02-12-2021 19:41,19,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,3,7 or above,No,4,2,2,4,0,No,5
+02-12-2021 19:44,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,1,7 or above,No,3,3,2,4,0,No,4
+02-12-2021 19:48,20,Female,Moderately Developed city,5,Technical,No,1,5,05-Jul,Yes,3,2,4,3,0,No,1
+02-12-2021 19:48,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,3,1,2 hours or less,No,4,3,1,4,0,No,4
+02-12-2021 19:52,19,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,2,05-Jul,No,4,2,3,3,0,No,4
+02-12-2021 19:54,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,1,2,7 or above,No,3,2,1,3,0,No,3
+02-12-2021 19:54,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,2,2 hours or less,No,4,3,1,4,1,No,4
+02-12-2021 19:56,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,3,7 or above,No,3,2,2,3,1,No,3
+02-12-2021 19:58,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,2,2 hours or less,No,4,1,1,4,0,No,5
+02-12-2021 20:01,20,Female,Moderately Developed city,3,Technical,No,2,2,05-Jul,No,2,5,2,3,0,No,3
+02-12-2021 20:01,20,Female,Moderately Developed city,3,Technical,No,1,1,7 or above,No,3,1,1,2,0,No,3
+02-12-2021 20:01,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,1,2,2 hours or less,Yes,3,2,1,3,0,No,4
+02-12-2021 20:08,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,2,1,7 or above,No,4,5,3,4,0,No,4
+02-12-2021 20:09,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,5,7 or above,No,3,1,2,3,0,No,5
+02-12-2021 20:10,19,Female,Moderately Developed city,4,Technical,Maybe,2,3,05-Jul,Yes,2,4,2,1,0,Yes,2
+02-12-2021 20:12,18,Male,Moderately Developed city,2,Technical,No,3,3,7 or above,No,4,2,1,4,0,No,5
+02-12-2021 20:29,21,Female,Moderately Developed city,3,Technical,No,3,4,7 or above,No,3,3,2,2,0,No,3
+02-12-2021 20:32,22,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,No,4,2,7 or above,No,4,1,1,4,2,No,5
+02-12-2021 20:34,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,2,7 or above,No,4,1,1,2,3,No,3
+02-12-2021 20:40,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,2,1,05-Jul,No,3,5,3,5,0,No,4
+02-12-2021 20:50,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,2,02-May,Yes,3,2,3,2,0,No,3
+02-12-2021 21:14,19,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,3,05-Jul,No,5,2,1,3,0,No,5
+02-12-2021 21:28,21,Female,Moderately Developed city,5,Technical,No,4,3,05-Jul,Yes,3,4,3,3,0,Yes,2
+02-12-2021 21:43,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,05-Jul,No,2,2,2,3,0,No,4
+02-12-2021 22:11,20,Female,Moderately Developed city,3,Technical,Yes,2,4,05-Jul,Yes,3,1,4,3,0,Yes,1
+02-12-2021 22:16,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,4,2 hours or less,No,2,2,1,1,0,No,4
+02-12-2021 22:33,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,4,3,7 or above,Yes,4,3,3,3,0,No,3
+02-12-2021 22:48,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,3,02-May,No,3,3,3,4,0,No,4
+02-12-2021 23:32,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,3,05-Jul,Yes,3,4,4,4,0,No,3
+02-12-2021 23:42,20,Female,Moderately Developed city,3,Technical,Yes,4,3,7 or above,No,3,2,2,2,0,No,4
+02-12-2021 23:43,20,Male,Moderately Developed city,2,Technical,No,3,2,02-May,No,4,2,1,5,0,No,4
+02-12-2021 23:43,22,Male,Moderately Developed city,3,Technical,No,2,4,02-May,No,3,2,2,4,0,No,3
+02-12-2021 23:44,24,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,5,7 or above,No,3,3,5,4,0,Yes,4
+02-12-2021 23:47,22,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,1,7 or above,No,4,1,1,5,0,No,5
+02-12-2021 23:50,19,Female,Moderately Developed city,3,Commerce and Arts,No,4,4,7 or above,No,3,1,1,2,0,No,3
+02-12-2021 23:53,19,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,3,4,02-May,No,3,1,1,3,0,No,1
+02-12-2021 23:54,20,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,1,7 or above,No,3,2,2,3,0,No,5
+02-12-2021 23:56,16,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,4,7 or above,Yes,1,2,2,3,0,No,3
+02-12-2021 23:57,21,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Yes,4,5,05-Jul,No,4,1,3,4,0,No,4
+2/13/2021 0:04:23,26,Male,Moderately Developed city,2,Technical,No,4,3,7 or above,No,3,4,1,4,2,No,4
+2/13/2021 0:04:29,22,Male,Moderately Developed city,2,Technical,Yes,4,2,05-Jul,No,3,2,2,3,0,No,4
+2/13/2021 0:05:44,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,1,7 or above,No,4,5,1,4,1,No,5
+2/13/2021 0:05:52,20,Female,Moderately Developed city,4,Technical,No,3,4,7 or above,No,4,3,2,3,0,No,4
+2/13/2021 0:07:32,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,4,05-Jul,No,4,3,1,4,0,No,4
+2/13/2021 0:07:45,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,4,7 or above,No,4,1,2,2,0,No,4
+2/13/2021 0:10:34,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,3,02-May,Yes,3,3,3,2,0,No,3
+2/13/2021 0:11:23,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,2,7 or above,No,3,1,1,3,0,No,3
+2/13/2021 0:11:42,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Medical,No,3,2,02-May,Yes,4,3,4,4,0,No,3
+2/13/2021 0:13:03,18,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,4,5,7 or above,Yes,3,1,4,5,1,No,3
+2/13/2021 0:16:57,21,Male,Moderately Developed city,5,Technical,No,1,3,7 or above,Yes,4,5,2,3,0,No,3
+2/13/2021 0:17:56,16,Male,"Highly Developed city (Metropolitan, highly populated)",4,Medical,Maybe,2,2,05-Jul,No,5,5,2,5,0,No,5
+2/13/2021 0:19:18,22,Male,Moderately Developed city,3,Technical,No,4,4,05-Jul,No,4,2,5,4,1,No,4
+2/13/2021 0:21:00,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,1,7 or above,Yes,3,1,1,3,0,No,3
+2/13/2021 0:22:41,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,2,7 or above,No,4,3,4,3,1,No,3
+2/13/2021 0:25:47,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,1,7 or above,Yes,3,2,2,2,0,Yes,4
+2/13/2021 0:30:21,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,5,2,7 or above,No,2,2,4,3,0,Yes,3
+2/13/2021 0:33:36,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,3,7 or above,No,4,1,1,4,0,No,4
+2/13/2021 0:35:45,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,1,4,7 or above,Yes,3,1,4,1,4,No,1
+2/13/2021 0:41:02,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,4,2,7 or above,No,4,3,2,3,0,No,4
+2/13/2021 0:41:19,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,4,2 hours or less,Yes,3,3,1,4,0,No,3
+2/13/2021 0:41:40,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,3,7 or above,No,4,5,1,5,0,No,4
+2/13/2021 0:44:46,22,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,3,02-May,No,3,2,3,4,0,Yes,3
+2/13/2021 0:48:34,20,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,1,7 or above,No,3,3,2,3,0,No,3
+2/13/2021 0:49:26,14,Male,Moderately Developed city,1,Commerce and Arts,No,1,1,02-May,No,5,4,2,5,4,No,5
+2/13/2021 0:54:05,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,2,7 or above,No,3,5,1,4,0,No,4
+2/13/2021 1:09:13,20,Male,Moderately Developed city,3,Technical,No,4,1,7 or above,No,5,4,1,4,0,No,5
+2/13/2021 1:16:39,17,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,4,3,7 or above,No,4,5,1,4,1,No,4
+2/13/2021 1:51:38,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,4,7 or above,No,1,1,3,3,0,No,3
+2/13/2021 2:09:04,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,05-Jul,Yes,3,4,3,3,0,No,3
+2/13/2021 2:10:15,21,Female,Moderately Developed city,4,Technical,Yes,4,3,7 or above,No,4,3,2,4,0,No,4
+2/13/2021 2:23:44,19,Male,Moderately Developed city,3,Technical,Maybe,4,3,7 or above,No,3,1,2,3,0,No,3
+2/13/2021 2:25:02,19,Female,Moderately Developed city,5,Technical,Yes,3,3,7 or above,Yes,2,1,1,4,0,Yes,3
+2/13/2021 6:51:27,17,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,2,7 or above,No,4,2,1,2,0,No,4
+2/13/2021 7:20:03,26,Male,Moderately Developed city,3,Technical,Yes,4,3,7 or above,No,4,3,1,4,0,No,4
+2/13/2021 7:28:21,22,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,2,02-May,No,4,4,3,4,0,No,4
+2/13/2021 7:57:42,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,05-Jul,No,3,3,1,4,0,No,4
+2/13/2021 8:35:42,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,3,05-Jul,No,3,4,2,3,0,No,3
+2/13/2021 8:46:44,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Medical,No,4,3,7 or above,No,4,2,2,4,0,No,4
+2/13/2021 8:50:09,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,1,05-Jul,No,3,2,2,4,0,No,4
+2/13/2021 9:07:33,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,4,05-Jul,No,3,4,1,3,0,No,1
+2/13/2021 9:12:05,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,4,05-Jul,Yes,3,4,4,3,0,No,2
+2/13/2021 9:55:34,16,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,5,3,02-May,No,4,4,2,4,0,No,4
+2/13/2021 10:06:32,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,4,2,05-Jul,No,3,4,1,3,2,Yes,3
+2/13/2021 10:31:01,16,Female,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,4,2,02-May,No,4,2,1,3,0,No,4
+2/13/2021 10:35:41,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,1,02-May,No,3,2,1,3,0,No,4
+2/13/2021 10:42:03,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,5,4,2 hours or less,Yes,3,3,2,2,0,No,3
+2/13/2021 10:55:05,14,Male,Moderately Developed city,1,Commerce and Arts,No,1,1,02-May,No,5,4,2,5,4,No,5
+2/13/2021 10:57:37,20,Female,Moderately Developed city,3,Technical,No,4,4,7 or above,No,3,2,3,4,0,No,4
+2/13/2021 11:20:57,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,3,7 or above,No,3,4,3,4,0,No,4
+2/13/2021 11:23:28,16,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,1,7 or above,No,3,2,1,2,0,No,4
+2/13/2021 11:23:37,23,Female,Moderately Developed city,4,Technical,Maybe,3,3,7 or above,No,3,3,3,3,0,No,3
+2/13/2021 11:30:26,24,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,3,1,02-May,Yes,4,2,3,4,0,Yes,3
+2/13/2021 11:32:44,20,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,4,2,7 or above,No,3,1,4,4,0,No,3
+2/13/2021 11:58:49,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,3,2,7 or above,No,3,1,2,3,0,No,4
+2/13/2021 12:59:51,22,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,No,3,1,7 or above,Yes,4,3,1,3,0,No,5
+2/13/2021 13:22:59,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,Yes,4,1,05-Jul,No,4,3,3,4,0,Yes,3
+2/13/2021 15:08:40,18,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,2,2,7 or above,Yes,4,1,1,3,0,Yes,4
+2/13/2021 15:21:18,20,Male,Moderately Developed city,4,Technical,Yes,3,4,02-May,Yes,3,4,5,3,0,No,4
+2/13/2021 15:23:17,23,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,3,3,2,3,0,No,4
+2/13/2021 15:28:06,18,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,3,7 or above,No,2,1,3,2,0,No,3
+2/13/2021 15:43:51,20,Female,Moderately Developed city,4,Technical,Maybe,4,3,02-May,No,3,5,3,2,0,No,3
+2/13/2021 15:48:15,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,4,05-Jul,No,3,2,1,3,0,No,4
+2/13/2021 16:06:31,19,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Yes,2,4,7 or above,Yes,2,5,3,4,0,No,2
+2/13/2021 17:05:02,23,Female,Moderately Developed city,5,Commerce and Arts,No,5,4,02-May,No,3,2,3,4,0,No,4
+2/13/2021 17:16:59,19,Male,Moderately Developed city,3,Technical,Maybe,4,1,7 or above,No,4,1,2,4,0,No,5
+2/13/2021 17:32:14,21,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,2,2,05-Jul,No,3,5,2,3,0,No,3
+2/13/2021 18:37:18,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,1,05-Jul,No,4,5,1,4,0,No,5
+2/13/2021 19:19:49,22,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,3,7 or above,No,5,3,1,5,0,No,4
+2/13/2021 19:44:44,21,Male,Moderately Developed city,3,Technical,No,4,3,02-May,No,4,4,3,4,0,No,4
+2/13/2021 20:16:00,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,02-May,Yes,3,3,2,3,1,Yes,2
+2/13/2021 20:38:23,25,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,3,7 or above,No,4,5,1,4,0,No,4
+2/13/2021 21:15:33,19,Female,Moderately Developed city,4,Technical,Yes,2,4,7 or above,No,3,1,4,4,0,No,2
+2/13/2021 23:57:49,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,2,4,7 or above,Yes,2,1,5,3,0,Yes,3
+2/14/2021 1:40:25,21,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Yes,4,5,05-Jul,No,4,1,3,4,0,No,4
+2/14/2021 7:35:38,18,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Yes,2,5,05-Jul,Yes,4,2,5,4,0,No,4
+2/14/2021 9:09:27,21,Female,Moderately Developed city,5,Technical,Maybe,1,4,02-May,Yes,2,3,4,2,0,No,1
+2/14/2021 9:35:56,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,3,2,1,3,0,No,4
+2/14/2021 10:02:58,32,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,2 hours or less,No,4,2,2,3,0,No,4
+2/14/2021 10:39:07,19,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,3,7 or above,Yes,3,3,3,5,0,Yes,3
+2/14/2021 13:21:59,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,3,5,7 or above,No,3,2,3,3,0,No,2
+2/14/2021 13:22:27,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,4,7 or above,No,3,4,2,3,1,No,5
+2/14/2021 13:22:48,20,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,4,5,7 or above,Yes,3,1,5,4,0,No,4
+2/14/2021 13:24:10,22,Male,Moderately Developed city,3,Technical,Yes,4,2,7 or above,No,3,1,2,3,0,No,4
+2/14/2021 13:24:46,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,2,4,7 or above,Yes,2,1,5,3,0,Yes,2
+2/14/2021 13:25:25,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,5,3,05-Jul,No,4,2,2,2,0,No,3
+2/14/2021 13:26:42,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,4,7 or above,No,4,1,4,4,0,No,4
+2/14/2021 13:27:57,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,1,3,05-Jul,Yes,3,3,4,3,0,Yes,1
+2/14/2021 13:33:57,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,2,02-May,No,4,4,1,4,0,No,4
+2/14/2021 13:36:31,22,Male,Moderately Developed city,3,Technical,No,2,2,7 or above,Yes,3,2,1,2,0,No,2
+2/14/2021 13:43:32,19,Female,"Highly Developed city (Metropolitan, highly populated)",1,Technical,Maybe,3,1,7 or above,No,4,2,4,5,0,Yes,5
+2/14/2021 13:45:34,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,3,7 or above,No,3,3,3,3,0,No,3
+2/14/2021 13:49:50,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,4,7 or above,Yes,3,1,2,3,0,No,3
+2/14/2021 13:53:45,19,Female,Moderately Developed city,3,Technical,No,3,4,7 or above,No,3,2,5,3,0,No,3
+2/14/2021 13:53:56,21,Male,Moderately Developed city,3,Technical,No,2,3,7 or above,Yes,3,1,1,2,0,Yes,2
+2/14/2021 13:56:24,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,3,05-Jul,No,3,2,1,4,0,No,3
+2/14/2021 14:11:52,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,5,5,7 or above,Yes,2,1,2,3,1,Yes,2
+2/14/2021 14:19:08,18,Female,Moderately Developed city,3,Technical,Maybe,3,3,05-Jul,No,3,2,2,3,0,No,4
+2/14/2021 14:24:22,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,1,7 or above,No,3,1,1,3,0,No,4
+2/14/2021 14:34:23,23,Female,Moderately Developed city,3,Technical,Maybe,4,5,02-May,No,4,1,1,4,0,No,4
+2/14/2021 14:35:26,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,2,7 or above,No,3,2,2,3,0,No,3
+2/14/2021 14:38:11,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,2,05-Jul,Yes,3,2,3,2,0,Yes,3
+2/14/2021 14:45:28,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,5,3,2 hours or less,No,4,5,1,5,2,No,5
+2/14/2021 14:46:08,27,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,1,3,2 hours or less,Yes,1,1,3,2,0,No,1
+2/14/2021 14:51:37,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,5,05-Jul,No,3,2,1,4,0,No,3
+2/14/2021 15:06:14,19,Male,Moderately Developed city,3,Technical,No,4,2,02-May,No,3,5,1,4,0,No,4
+2/14/2021 15:19:29,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,1,4,02-May,No,3,1,3,3,0,Yes,2
+2/14/2021 15:27:26,21,Male,Moderately Developed city,1,Technical,No,5,1,7 or above,No,4,3,1,4,3,No,4
+2/14/2021 16:12:42,19,Male,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,2,4,05-Jul,No,3,2,2,3,0,No,4
+2/14/2021 16:17:58,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,4,4,7 or above,No,2,2,3,3,0,No,4
+2/14/2021 17:10:07,21,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,No,5,1,7 or above,No,5,5,1,5,0,No,5
+2/14/2021 17:16:19,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,1,3,05-Jul,No,4,4,1,4,0,No,4
+2/14/2021 17:20:46,21,Male,Moderately Developed city,2,Technical,Maybe,3,4,7 or above,No,3,1,2,2,2,No,3
+2/14/2021 17:25:03,18,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,2,4,05-Jul,No,3,3,3,2,0,No,3
+2/14/2021 17:28:11,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,3,1,7 or above,No,2,1,1,3,0,No,3
+2/14/2021 17:29:39,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,1,7 or above,No,5,3,1,5,0,No,5
+2/14/2021 17:33:12,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,7 or above,No,3,1,1,3,0,No,3
+2/14/2021 17:36:10,20,Male,Moderately Developed city,3,Technical,Maybe,3,2,05-Jul,Yes,3,2,3,3,0,Yes,3
+2/14/2021 17:49:25,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,1,4,7 or above,Yes,1,1,5,3,0,Yes,1
+2/14/2021 17:54:41,21,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,No,4,2,05-Jul,No,4,5,1,4,1,Yes,5
+2/14/2021 17:55:17,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,3,4,02-May,No,3,2,1,5,1,No,4
+2/14/2021 18:07:56,21,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,Maybe,4,2,7 or above,No,3,2,3,4,0,Yes,3
+2/14/2021 18:11:47,21,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Commerce and Arts,Yes,5,3,05-Jul,No,3,3,4,3,3,No,3
+2/14/2021 18:13:26,20,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,2,4,05-Jul,Yes,3,3,1,4,0,No,4
+2/14/2021 18:36:59,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,3,7 or above,No,2,1,3,3,0,No,4
+2/14/2021 18:48:57,24,Male,Moderately Developed city,5,Technical,Yes,1,5,7 or above,Yes,2,1,1,5,0,No,5
+2/14/2021 19:02:40,23,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Yes,3,1,7 or above,No,4,2,5,4,0,No,4
+2/14/2021 19:10:04,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,4,7 or above,No,2,4,3,3,0,No,3
+2/14/2021 19:15:56,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,2,1,7 or above,Yes,3,1,4,4,0,No,2
+2/14/2021 19:22:57,22,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,2,7 or above,No,3,1,1,2,0,No,5
+2/14/2021 19:32:27,23,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,4,7 or above,Yes,2,3,4,1,0,Yes,2
+2/14/2021 19:37:54,18,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,4,7 or above,No,1,1,3,5,0,No,3
+2/14/2021 20:08:24,21,Male,Moderately Developed city,3,Technical,Yes,3,1,02-May,No,1,1,1,4,0,No,3
+2/14/2021 20:40:15,21,Male,Moderately Developed city,3,Technical,No,4,1,2 hours or less,No,4,3,1,4,1,No,5
+2/14/2021 21:13:23,23,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Yes,3,4,05-Jul,Yes,2,2,4,2,2,Yes,2
+2/14/2021 21:54:54,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,1,7 or above,No,3,1,2,3,0,No,3
+2/14/2021 22:40:20,21,Male,Moderately Developed city,3,Technical,No,3,3,05-Jul,No,2,2,1,3,0,No,3
+2/14/2021 23:08:39,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,2,1,7 or above,No,4,5,1,3,0,No,5
+2/14/2021 23:09:38,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,2,02-May,No,4,5,1,4,2,No,3
+2/14/2021 23:09:56,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,1,3,05-Jul,No,3,3,1,4,0,No,4
+2/14/2021 23:16:33,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Maybe,4,4,02-May,No,3,2,5,2,2,Yes,4
+2/14/2021 23:22:45,20,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,3,1,7 or above,No,3,1,3,4,1,No,4
+2/14/2021 23:26:54,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,2,05-Jul,No,4,5,2,3,4,No,4
+2/14/2021 23:27:46,21,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,2,3,7 or above,Yes,3,4,4,3,0,No,3
+2/14/2021 23:52:43,20,Female,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,No,2,4,7 or above,No,4,1,4,4,2,Yes,3
+2/14/2021 23:58:53,18,Male,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,No,5,4,05-Jul,No,5,5,2,5,0,No,4
+2/15/2021 0:21:42,21,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Commerce and Arts,Maybe,4,4,05-Jul,No,3,2,3,3,0,No,3
+2/15/2021 0:22:58,21,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Commerce and Arts,Maybe,3,5,02-May,No,4,3,4,3,3,No,3
+2/15/2021 0:25:49,26,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,5,1,2 hours or less,No,3,4,1,5,1,Yes,5
+2/15/2021 0:27:10,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,1,7 or above,No,3,2,3,3,0,No,3
+2/15/2021 0:27:20,20,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Medical,No,3,5,7 or above,No,2,1,4,3,0,Yes,1
+2/15/2021 0:27:36,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,3,7 or above,No,3,2,1,4,0,No,3
+2/15/2021 0:32:51,18,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,2,7 or above,Yes,2,3,2,2,0,No,4
+2/15/2021 0:34:01,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,7 or above,No,2,2,3,3,0,Yes,3
+2/15/2021 0:35:26,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,4,4,05-Jul,No,2,2,4,3,0,Yes,4
+2/15/2021 0:35:59,21,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,4,05-Jul,No,3,2,4,3,0,No,3
+2/15/2021 0:39:49,19,Male,Moderately Developed city,4,Technical,Maybe,4,3,05-Jul,No,4,2,1,3,0,No,4
+2/15/2021 0:49:16,21,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,No,4,1,02-May,No,3,2,1,4,3,No,5
+2/15/2021 0:50:49,23,Male,Moderately Developed city,3,Technical,Maybe,2,5,7 or above,No,4,2,4,5,0,No,3
+2/15/2021 1:09:20,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,1,3,7 or above,No,2,1,5,2,0,Yes,2
+2/15/2021 1:34:12,19,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,3,7 or above,No,3,3,2,4,0,No,5
+2/15/2021 1:38:04,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,05-Jul,No,3,2,1,3,0,No,4
+2/15/2021 1:57:12,20,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,4,02-May,No,2,2,4,5,3,Yes,3
+2/15/2021 2:59:58,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,3,2,7 or above,No,3,1,3,4,0,No,3
+2/15/2021 3:23:17,21,Female,Moderately Developed city,4,Commerce and Arts,Maybe,2,3,02-May,Yes,2,3,4,3,1,No,3
+2/15/2021 7:06:20,20,Male,"Less Developed ( hilly areas, rural areas, towns)",2,Technical,No,3,3,02-May,No,2,2,3,3,0,No,3
+2/15/2021 8:08:58,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Medical,Yes,3,2,05-Jul,No,3,2,3,2,2,Yes,2
+2/15/2021 9:06:56,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Maybe,3,4,05-Jul,Yes,3,2,1,2,1,No,2
+2/15/2021 9:07:01,21,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,5,1,7 or above,No,3,4,1,4,0,No,4
+2/15/2021 9:34:43,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,5,4,1,5,0,Yes,3
+2/15/2021 9:59:04,22,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,2,05-Jul,Yes,1,2,2,4,0,No,1
+2/15/2021 10:36:32,19,Female,Moderately Developed city,5,Technical,Maybe,2,3,7 or above,No,3,4,4,5,0,No,3
+2/15/2021 10:56:57,20,Female,Moderately Developed city,3,Technical,No,3,2,05-Jul,No,3,3,3,3,0,No,3
+2/15/2021 13:11:46,20,Male,Moderately Developed city,4,Technical,Yes,5,2,7 or above,No,4,4,1,4,3,No,3
+2/15/2021 17:25:27,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,7 or above,No,3,1,2,3,0,No,4
+2/15/2021 17:37:25,22,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,3,1,05-Jul,Yes,1,1,4,3,2,No,2
+2/15/2021 17:40:55,21,Male,Moderately Developed city,2,Technical,Maybe,4,1,7 or above,No,4,1,1,4,1,No,4
+2/15/2021 17:41:38,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,4,7 or above,Yes,2,1,5,1,0,No,2
+2/15/2021 17:44:38,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,3,2,4,2,2,No,2
+2/15/2021 17:48:22,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,3,1,1,2,0,No,3
+2/15/2021 18:15:50,22,Male,Moderately Developed city,3,Technical,Maybe,4,2,05-Jul,No,2,2,3,3,0,No,4
+2/15/2021 18:19:56,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,2,7 or above,No,4,2,4,4,0,No,4
+2/15/2021 18:29:04,18,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,2,5,7 or above,Yes,2,1,3,4,0,No,3
+2/15/2021 18:31:01,22,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Yes,4,5,05-Jul,No,1,2,4,2,1,No,3
+2/15/2021 19:48:39,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,2,1,05-Jul,Yes,3,2,3,1,0,No,2
+2/15/2021 20:14:52,19,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,3,05-Jul,No,2,3,3,3,1,No,3
+2/15/2021 20:15:15,18,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,1,2,05-Jul,Yes,2,1,3,1,0,No,2
+2/15/2021 20:16:21,18,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,2,3,7 or above,No,3,1,4,3,0,No,3
+2/15/2021 20:20:04,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,1,05-Jul,No,3,2,1,3,0,No,4
+2/15/2021 20:41:53,18,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Maybe,3,5,7 or above,No,3,2,1,3,0,No,4
+2/15/2021 20:46:29,18,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,3,7 or above,No,3,1,4,4,0,No,3
+2/15/2021 21:48:43,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,4,4,05-Jul,No,3,1,2,5,0,No,4
+2/15/2021 22:36:32,18,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,2,2,02-May,No,2,1,1,3,0,No,4
+2/15/2021 23:09:25,24,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,3,1,7 or above,No,3,3,4,4,0,No,3
+2/15/2021 23:15:26,25,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,Yes,2,3,05-Jul,No,3,3,3,2,0,No,4
+2/15/2021 23:27:08,19,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,No,3,2,7 or above,No,3,1,1,4,0,No,3
+2/16/2021 9:52:50,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,4,1,7 or above,No,2,1,1,2,0,No,3
+2/16/2021 10:35:44,16,Female,Moderately Developed city,2,Commerce and Arts,Maybe,3,2,02-May,No,4,3,1,3,0,No,4
+2/16/2021 10:39:16,17,Male,Moderately Developed city,3,Technical,No,4,1,2 hours or less,No,4,5,5,4,0,No,3
+2/16/2021 10:49:16,16,Male,Moderately Developed city,3,Commerce and Arts,No,5,4,7 or above,No,3,3,2,4,0,No,5
+2/16/2021 10:50:42,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Yes,2,3,2 hours or less,Yes,3,3,2,2,2,Yes,2
+2/16/2021 11:12:35,16,Female,"Highly Developed city (Metropolitan, highly populated)",4,Medical,Maybe,3,3,02-May,No,3,1,2,3,0,No,3
+2/16/2021 11:13:03,16,Male,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,No,5,2,7 or above,No,3,3,2,5,0,No,3
+2/16/2021 11:23:59,16,Female,"Highly Developed city (Metropolitan, highly populated)",4,Commerce and Arts,Yes,5,5,05-Jul,Yes,2,1,2,4,0,No,2
+2/16/2021 11:31:05,16,Male,"Highly Developed city (Metropolitan, highly populated)",4,Medical,Maybe,4,2,05-Jul,No,3,5,2,3,0,No,3
+2/16/2021 11:50:41,17,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,Maybe,3,1,7 or above,No,4,2,1,3,0,No,3
+2/16/2021 12:28:08,19,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,1,1,7 or above,No,3,2,2,2,0,No,4
+2/16/2021 13:26:21,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,1,02-May,No,4,3,1,1,0,No,5
+2/16/2021 13:55:12,17,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,2,2 hours or less,No,4,1,1,4,0,No,5
+2/16/2021 14:33:00,16,Male,Moderately Developed city,3,Commerce and Arts,No,5,4,7 or above,No,3,3,2,4,0,No,5
+2/16/2021 15:20:14,19,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Maybe,2,3,02-May,No,3,4,3,3,0,No,3
+2/16/2021 16:01:49,16,Male,Moderately Developed city,2,Technical,No,4,2,05-Jul,No,3,5,1,3,0,No,4
+2/16/2021 16:03:14,16,Male,Moderately Developed city,4,Technical,Maybe,2,2,02-May,Yes,3,5,5,3,0,No,4
+2/16/2021 16:05:48,17,Female,Moderately Developed city,1,Technical,No,3,4,05-Jul,No,4,4,3,3,0,No,4
+2/16/2021 16:08:01,18,Female,Moderately Developed city,3,Technical,No,3,3,05-Jul,No,4,4,2,3,0,No,3
+2/16/2021 16:08:13,17,Male,Moderately Developed city,3,Technical,No,3,4,02-May,No,3,5,1,4,0,No,4
+2/16/2021 16:08:36,17,Male,Moderately Developed city,3,Technical,No,4,3,7 or above,Yes,4,3,1,3,0,No,4
+2/16/2021 16:35:44,16,Male,Moderately Developed city,2,Technical,No,4,1,05-Jul,No,3,2,1,5,0,No,4
+2/16/2021 16:37:02,16,Male,Moderately Developed city,3,Commerce and Arts,No,3,4,02-May,No,3,3,3,4,0,No,3
+2/16/2021 18:47:51,20,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,4,2,7 or above,No,4,2,1,5,0,No,5
+2/16/2021 20:20:23,16,Male,Moderately Developed city,3,Commerce and Arts,No,5,4,7 or above,No,3,3,2,4,0,No,5
+2/16/2021 20:50:03,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,4,4,7 or above,No,3,1,3,4,2,Yes,3
+2/16/2021 20:53:00,16,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,2,7 or above,No,4,2,1,4,0,No,5
+2/16/2021 20:58:27,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Medical,No,5,2,05-Jul,No,4,4,5,5,0,No,5
+2/16/2021 21:00:46,16,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,1,7 or above,No,4,3,1,5,0,No,5
+2/16/2021 21:02:43,16,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Yes,4,3,05-Jul,No,3,3,1,5,0,No,4
+2/16/2021 21:14:27,18,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,1,05-Jul,Yes,2,4,1,3,1,No,5
+2/16/2021 21:14:38,18,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,1,05-Jul,Yes,2,4,1,3,1,No,5
+2/16/2021 21:45:52,18,Female,"Less Developed ( hilly areas, rural areas, towns)",1,Commerce and Arts,No,5,3,2 hours or less,No,3,1,3,3,0,No,3
+2/16/2021 22:07:29,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Yes,5,1,7 or above,No,3,2,1,5,2,No,4
+2/16/2021 22:20:09,17,Male,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,1,3,05-Jul,No,3,2,1,2,0,No,3
+2/16/2021 22:33:51,17,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,4,2,2 hours or less,No,4,1,1,4,0,No,5
+2/16/2021 23:27:00,26,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,5,1,05-Jul,No,4,3,1,3,1,No,5
+2/16/2021 23:55:06,21,Male,Moderately Developed city,3,Technical,No,2,3,7 or above,No,2,1,2,2,2,No,3
+2/17/2021 2:55:06,18,Male,Moderately Developed city,5,Technical,Yes,4,1,02-May,No,3,3,2,4,0,No,4
+2/17/2021 9:04:38,23,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,4,1,7 or above,No,2,2,1,5,3,No,5
+2/17/2021 10:05:22,25,Male,Moderately Developed city,3,Technical,No,3,3,7 or above,No,3,3,2,1,0,No,3
+2/17/2021 12:00:56,19,Female,Moderately Developed city,4,Technical,Yes,3,4,7 or above,Yes,3,3,2,3,0,No,3
+2/17/2021 12:11:03,22,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,2,1,7 or above,Yes,4,4,4,3,1,Yes,2
+2/17/2021 13:26:55,21,Male,Moderately Developed city,3,Medical,Maybe,3,2,05-Jul,No,4,4,1,3,0,No,4
+2/17/2021 14:06:10,19,Male,Moderately Developed city,2,Technical,No,5,3,7 or above,Yes,3,5,4,3,0,No,3
+2/17/2021 14:58:05,22,Male,Moderately Developed city,2,Technical,No,3,1,05-Jul,No,3,3,2,3,1,No,3
+2/17/2021 15:05:20,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,4,1,7 or above,Yes,2,1,1,3,2,No,3
+2/17/2021 15:10:29,17,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,1,05-Jul,No,4,2,1,5,0,No,5
+2/17/2021 18:16:38,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,05-Jul,No,3,3,4,3,0,No,3
+2/17/2021 20:10:10,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,3,05-Jul,No,3,4,5,4,0,No,3
+2/17/2021 22:42:38,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,Maybe,4,3,05-Jul,No,3,2,4,3,2,Yes,3
+2/17/2021 23:43:41,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,2,4,7 or above,Yes,3,1,3,4,0,No,3
+2/18/2021 9:00:36,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,5,05-Jul,No,2,1,5,4,0,No,3
+2/18/2021 9:36:01,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,7 or above,No,3,2,3,2,0,No,3
+2/18/2021 14:11:24,18,Female,Moderately Developed city,2,Commerce and Arts,No,2,3,05-Jul,Yes,4,3,3,5,3,No,3
+2/18/2021 14:11:57,23,Female,"Highly Developed city (Metropolitan, highly populated)",4,Medical,Maybe,4,4,2 hours or less,Yes,3,2,3,4,2,No,3
+2/18/2021 20:28:26,21,Female,Moderately Developed city,4,Technical,Maybe,4,4,7 or above,No,3,1,1,5,0,No,4
+2/18/2021 20:29:31,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,5,7 or above,Yes,2,4,4,3,1,Yes,2
+2/18/2021 20:42:46,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Commerce and Arts,No,3,4,05-Jul,Yes,2,2,1,3,1,Yes,1
+2/18/2021 20:43:16,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,3,7 or above,No,3,3,4,3,0,No,2
+2/18/2021 20:53:56,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Yes,4,2,7 or above,Yes,3,1,3,3,0,No,3
+2/18/2021 23:50:09,19,Male,Moderately Developed city,3,Technical,Maybe,5,3,7 or above,No,3,1,2,5,0,No,4
+2/19/2021 11:15:31,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,Maybe,5,4,02-May,No,3,3,1,4,2,No,5
+2/19/2021 12:16:51,20,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,2,05-Jul,No,3,3,2,4,0,No,4
+2/19/2021 12:23:06,22,Male,Moderately Developed city,5,Technical,Maybe,1,3,7 or above,Yes,1,1,5,3,0,Yes,1
+2/19/2021 12:23:48,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,4,05-Jul,No,3,3,1,4,0,No,5
+2/19/2021 12:28:08,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,4,2,7 or above,No,3,2,1,4,0,No,4
+2/19/2021 13:43:21,20,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,Yes,5,5,7 or above,No,2,2,5,3,0,No,3
+2/19/2021 13:53:51,20,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Yes,3,4,05-Jul,No,3,3,4,4,0,Yes,3
+2/19/2021 14:00:12,20,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,No,3,5,7 or above,No,3,5,3,4,0,No,3
+2/19/2021 14:11:07,21,Female,Moderately Developed city,3,Technical,Yes,4,5,05-Jul,No,2,4,2,4,0,No,3
+2/19/2021 14:19:29,21,Male,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,4,2,7 or above,No,3,3,1,4,0,No,4
+2/19/2021 14:39:56,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,5,1,05-Jul,No,1,4,1,5,0,No,3
+2/19/2021 14:48:05,20,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,4,5,7 or above,Yes,3,1,2,3,0,No,3
+2/19/2021 15:30:13,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,5,2,02-May,No,3,1,1,3,3,No,3
+2/19/2021 16:03:26,22,Male,"Less Developed ( hilly areas, rural areas, towns)",1,Technical,No,3,1,02-May,No,5,2,3,2,0,No,5
+2/19/2021 16:24:14,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Maybe,3,4,02-May,Yes,3,1,3,3,0,No,2
+2/19/2021 18:07:45,19,Female,"Highly Developed city (Metropolitan, highly populated)",4,Technical,No,3,2,05-Jul,No,3,3,2,4,0,No,3
+2/19/2021 18:56:14,22,Female,Moderately Developed city,4,Technical,No,4,5,7 or above,No,3,2,3,5,0,No,3
+2/19/2021 19:20:07,20,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,2,2,05-Jul,No,3,4,1,4,0,No,5
+2/19/2021 19:38:24,21,Male,"Highly Developed city (Metropolitan, highly populated)",1,Commerce and Arts,No,5,1,05-Jul,No,4,5,1,3,0,No,3
+2/20/2021 0:46:13,21,Female,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Yes,1,5,7 or above,Yes,1,1,5,1,4,Yes,1
+2/20/2021 0:46:22,19,Female,"Highly Developed city (Metropolitan, highly populated)",1,Technical,No,4,2,02-May,No,4,4,2,4,1,No,5
+2/20/2021 0:47:25,21,Male,Moderately Developed city,2,Medical,Maybe,5,1,05-Jul,No,4,4,1,3,0,No,5
+2/20/2021 0:47:58,23,Female,Moderately Developed city,4,Commerce and Arts,Yes,2,2,05-Jul,Yes,2,2,4,2,3,Yes,1
+2/20/2021 0:49:18,20,Male,Moderately Developed city,2,Commerce and Arts,No,5,3,05-Jul,No,4,4,2,4,1,No,5
+2/20/2021 0:51:32,23,Female,"Highly Developed city (Metropolitan, highly populated)",1,Medical,No,2,5,05-Jul,No,2,3,2,4,2,Yes,2
+2/20/2021 0:52:22,19,Male,"Highly Developed city (Metropolitan, highly populated)",2,Medical,Maybe,4,2,05-Jul,No,5,5,2,4,0,No,5
+2/20/2021 0:53:59,21,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,2,4,7 or above,Yes,2,2,4,2,2,Yes,1
+2/20/2021 0:54:06,22,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,5,2,02-May,No,4,3,1,5,0,No,5
+2/20/2021 0:55:31,20,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,No,4,2,05-Jul,No,4,4,1,4,1,No,5
+2/20/2021 0:56:23,22,Male,"Highly Developed city (Metropolitan, highly populated)",5,Commerce and Arts,Maybe,1,5,7 or above,No,4,2,5,2,3,Yes,1
+2/20/2021 0:57:37,23,Male,Moderately Developed city,1,Commerce and Arts,No,4,2,05-Jul,No,4,4,1,5,0,No,5
+2/20/2021 0:59:05,20,Female,"Less Developed ( hilly areas, rural areas, towns)",4,Medical,Maybe,2,4,7 or above,Yes,2,1,4,2,2,Yes,1
+2/20/2021 1:00:29,18,Female,Moderately Developed city,3,Commerce and Arts,No,4,4,05-Jul,No,4,4,2,4,1,No,5
+2/20/2021 1:00:41,22,Male,"Less Developed ( hilly areas, rural areas, towns)",4,Technical,Yes,3,4,05-Jul,No,2,2,4,1,3,Yes,2
+2/20/2021 1:01:01,19,Male,"Less Developed ( hilly areas, rural areas, towns)",5,Technical,Yes,2,4,02-May,Yes,1,1,5,1,3,Yes,1
+2/20/2021 1:02:36,22,Male,Moderately Developed city,1,Technical,No,5,2,7 or above,No,4,4,1,5,1,No,5
+2/20/2021 1:02:39,22,Male,"Highly Developed city (Metropolitan, highly populated)",2,Commerce and Arts,Maybe,4,3,05-Jul,No,3,3,2,5,0,No,5
+2/20/2021 1:03:49,22,Female,"Highly Developed city (Metropolitan, highly populated)",2,Technical,No,3,2,7 or above,No,4,4,3,4,1,No,5
+2/20/2021 1:03:55,22,Female,Moderately Developed city,5,Technical,Yes,4,4,02-May,No,2,2,5,4,2,No,2
+2/20/2021 1:05:27,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Medical,No,4,3,7 or above,No,4,3,3,5,0,No,5
+2/20/2021 12:23:57,21,Female,"Less Developed ( hilly areas, rural areas, towns)",3,Technical,Maybe,4,4,7 or above,No,3,2,3,4,0,No,3
+2/20/2021 13:38:55,20,Male,"Highly Developed city (Metropolitan, highly populated)",4,Technical,Yes,1,3,05-Jul,No,3,2,4,2,2,Yes,2
+2/20/2021 14:03:09,22,Male,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,2,7 or above,No,4,2,3,4,0,No,5
+2/21/2021 13:49:46,21,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,Maybe,3,1,02-May,No,4,4,2,4,0,No,4
+2/21/2021 15:02:20,19,Female,"Highly Developed city (Metropolitan, highly populated)",3,Technical,No,3,3,7 or above,Yes,4,2,1,4,0,Yes,3
+2/22/2021 17:44:02,24,Male,"Highly Developed city (Metropolitan, highly populated)",5,Technical,Maybe,4,4,7 or above,Yes,3,2,3,3,0,No,2
