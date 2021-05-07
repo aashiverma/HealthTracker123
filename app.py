@@ -4,6 +4,7 @@ import mentalPredictor
 
 app=Flask(__name__)
 
+#nothing
 @app.route('/')
 def start():
     return render_template("index.html")
